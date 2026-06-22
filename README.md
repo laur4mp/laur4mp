@@ -1,9 +1,8 @@
-# Olá! Bem-vindo(a) ao meu perfil! 👋
+# Olá! Bem-vindo(a) ao perfil! 👋
 
-* ✨ Meu nome é Laura Maria dos Santos Pereira.
+* ✨ Sou a Laura Maria dos Santos Pereira.
 * 🎓 Técnica em Informática pelo IFNMG - Campus Almenara.
 * 💡 Estudante de Ciência da Computação na UFMG.
-* 🚀 Em constante aprendizado!
 
 
 <br><br>
@@ -16,8 +15,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://shields.io)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
