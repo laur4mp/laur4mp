@@ -8,15 +8,15 @@
 <br><br>
 
 ### 🛠 Skills
-<img src="https://shields.io" alt="HTML5">
-<img src="https://shields.io" alt="CSS3">
-<img src="https://shields.io" alt="JavaScript">
-<img src="https://shields.io" alt="Node.js">
-<img src="https://shields.io" alt="PHP">
-<img src="https://shields.io" alt="SQL">
-<img src="https://shields.io" alt="C">
-<img src="https://shields.io" alt="Git">
-<img src="https://shields.io" alt="GitHub">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://shields.io)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
